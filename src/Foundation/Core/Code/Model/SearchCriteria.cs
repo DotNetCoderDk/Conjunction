@@ -5,7 +5,7 @@ namespace Conjunction.Foundation.Core.Model
   /// <summary>
   /// Represents the search criteria that holds information about the search query elements that
   /// describes what needs to be queried, how values needed by the search query elements can be 
-  /// retrived, as well as the search index resposible for delivering the results.
+  /// retrieved, as well as the search index resposible for delivering the results.
   /// </summary>
   /// <remarks>
   /// The search criteria is used when querying the <see cref="Repositories.SearchResultRepository"/> 
